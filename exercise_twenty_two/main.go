@@ -22,4 +22,7 @@ func main() {
 		fmt.Println("The numbers are in different ranges")
 	}
 
+	for i := 0; i < 100; i++ {
+		fmt.Println("number ", i)
+	}
 }
